@@ -60,7 +60,7 @@ const ExperienceSection = () => {
       company: "Tata Consultancy Services ",
       period: "Present",
       description:
-        "Software Engineer ",
+        "Systems Engineer ",
     },
     {
       icon: Network,
