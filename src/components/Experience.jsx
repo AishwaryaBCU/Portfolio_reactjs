@@ -53,12 +53,19 @@ const ExperienceCard = ({
 
 const ExperienceSection = () => {
   const experiences = [
-
+     {
+      icon: Network,
+      title: "Full-Time",
+      company: "mLAC, Autonomous",
+      period: "Jan2026-Present",
+      description:
+        "Assistant Professor ",
+    },
     {
       icon: Network,
       title: "Full-Time",
       company: "Tata Consultancy Services ",
-      period: "Present",
+      period: "Apr2025-Dec2025",
       description:
         "Systems Engineer ",
     },
